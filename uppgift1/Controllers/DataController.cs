@@ -4,11 +4,11 @@ using uppgift1.Models;
 
 namespace uppgift1.Controllers;
 
-public class HomeController : Controller
+public class DataController : Controller
 {
-    private readonly ILogger<HomeController> _logger;
+    private readonly ILogger<DataController> _logger;
 
-    public HomeController(ILogger<HomeController> logger)
+    public DataController(ILogger<DataController> logger)
     {
         _logger = logger;
     }
@@ -19,6 +19,10 @@ public class HomeController : Controller
     }
 
     public IActionResult Privacy()
+    {
+        return View();
+    }
+    public IActionResult Info()
     {
         return View();
     }
