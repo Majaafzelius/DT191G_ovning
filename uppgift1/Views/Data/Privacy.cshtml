@@ -1,6 +1,25 @@
 ﻿@{
-    ViewData["Title"] = "Privacy Policy";
+    ViewData["Title"] = "Save Data";
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<p>Lägg till data här och visa på <a asp-area="" asp-controller="Data" asp-action="Info">denna</a> sida</p>
+ <!-- Views/Form/Index.cshtml -->
+@model FormModel
+
+<form asp-controller="Data" asp-action="Privacy" method="post">
+    <label for="Name">Name:</label>
+    <input type="text" id="Name" name="Name" /><br>
+
+    <label for="Email">Email:</label>
+    <input type="text" id="Email" name="Email" /><br>
+
+    <label for="StorageType">Storage Type:</label>
+    <select id="StorageType" name="storageType">
+        <option value="cookie">Cookie</option>
+        <option value="session">Session</option>
+        <option value="json">JSON File</option>
+    </select><br>
+
+    <button type="submit">Save</button>
+</form>
