@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewData["Title"] = "ViewBagdemo";
+}
+
+@{
+    List<string> authors = new List<string>(5)
+    {
+    "Åsa",
+    "Stina",
+    "Sara",
+    "Jenny",
+    "Lisa"
+    };
+}
+
+<h1>ViewBagdemo</h1>
+<p>ViewBag: @ViewBag.error</p>
+<p>ViewData: @ViewData["TheName"]</p>
+
+@{
+    <ul>
+        @foreach (string name in authors)
+        {
+            <li>
+                Namn: @name
+            </li>
+        }
+    </ul>
+}

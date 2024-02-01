@@ -1,0 +1,22 @@
+﻿@model upp1.Models.ViewModel
+
+@{
+    ViewData["Title"] = "UsingModelClass3";
+}
+
+<h1>UsingModelClass3</h1>
+
+<div>
+    <h4>ViewModel</h4>
+    <p>Datum: @Model.date_time</p>
+    <p>Sportklubb: @Model.SportClub</p>
+
+    @if (Model.Persons != null)
+    {
+        @foreach (PersonModel person in Model.Persons)
+        { 
+            <p>Namn: @person.First_Name @person.Last_Name, Ålder: @person.Age</p>
+        }
+    }
+</div>
+

@@ -1,0 +1,17 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "PassingParameter";
+}
+
+<h1>PassingParameter</h1>
+
+@{
+    <ol>
+        @foreach (string name in Model)
+        {
+                    <li>
+                        @name
+                    </li>
+        }
+    </ol>
+}

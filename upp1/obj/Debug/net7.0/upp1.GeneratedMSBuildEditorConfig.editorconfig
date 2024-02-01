@@ -16,16 +16,40 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\xampp\htdocs\DT191G\DT191G_mom2\upp1
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Data/AddData.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxBZGREYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Data/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Home/ViewBagdemo.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxWaWV3QmFnZGVtby5jc2h0bWw=
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Data/PassingParameter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxQYXNzaW5nUGFyYW1ldGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Data/ViewBagdemo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGF0YVxWaWV3QmFnZGVtby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Form/Form1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Form/Form2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybVxGb3JtMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Person/UsingModelClass1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFVzaW5nTW9kZWxDbGFzczEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Person/UsingModelClass2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFVzaW5nTW9kZWxDbGFzczIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Person/UsingModelClass3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXFVzaW5nTW9kZWxDbGFzczMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Shared/Error.cshtml]
@@ -34,6 +58,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/State/GetState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcR2V0U3RhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/State/GetState2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcR2V0U3RhdGUyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/State/SetState.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcU2V0U3RhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/State/SetState2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcU2V0U3RhdGUyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/xampp/htdocs/DT191G/DT191G_mom2/upp1/Views/_ViewImports.cshtml]
